@@ -1,0 +1,61 @@
+body{
+	text-align:center;
+	height:100px;
+	background-color: #FF9966;
+	background-image:linear-gradient(#FF9966,#FFFF99);
+	background-size:100%,100%;
+	
+}
+
+img{
+	margin:auto;
+	display:block;
+	padding:10px;
+	border: 7px solid #33001a;	
+}
+
+fieldset{
+border:0;
+margin:10px;
+padding:70px;
+font-family:"Lucida Bright, Georgia, serif";
+color:#33001a;
+}
+
+h1{
+	font-family:"Lucida Bright, Georgia, serif";
+	text-decoration:underline;
+	color:#33001a;
+}
+
+p{
+	font-family:"Lucida Bright, Georgia, serif";
+	color:#33001a;
+}
+
+h2{
+	font-family:"Lucida Bright, Georgia, serif";
+	color:#33001a;
+}
+
+caption{
+	font-family:"Lucida Bright, Georgia, serif,";
+	font-size:30px;
+	color:#33001a;
+}
+
+table {
+	border-collapse:collapse;
+}
+
+
+th,td {
+	padding:5px;
+	text-align:left;
+}
+
+tr{
+	text-transform:capitalize;
+	font-weight: bold;
+}
+
